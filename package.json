@@ -1,16 +1,15 @@
 {
-  "name": "better-dmarket-signing",
-  "version": "1.0.0",
-  "description": "Example of how to use the DMarket API",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "<3",
-  "license": "ISC",
-  "dependencies": {
-    "querystring": "^0.2.1",
-    "tweetnacl": "^1.0.3",
-    "web-request": "^1.0.7"
-  }
+    "name": "dmarket-request-example",
+    "version": "1.0.0",
+    "description": "Axios Instance of the DMarket Trading API",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "DoseOfCode",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.1.0",
+        "querystring": "^0.2.1",
+        "tweetnacl": "^1.0.3"
+    }
 }

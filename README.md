@@ -1,2 +1,3 @@
 # dmarket-request-example
-Example usage of how to use the DMarket Trading API
+
+Axios Instance of the DMarket Trading API
