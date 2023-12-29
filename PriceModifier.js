@@ -2,6 +2,7 @@
     
     Logs total cash amount of RUST listings and modifies all RUST listings by price by -2%
 
+    <3
 * */
 
 const DMarket = require('./DMarket');
